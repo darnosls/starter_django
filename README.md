@@ -16,3 +16,4 @@ My first steps in framework django
         - create model
         - activate model
         - play with the API Django in interactive Python shell
+        - create admin user
