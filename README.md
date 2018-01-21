@@ -1,10 +1,18 @@
 # starter_django
 My first steps in framework django
 
-# part. 1
+# part 1
     how to: 
         - create project
         - run project in development server
         - create an app in the project
         - create a view - simple hello world
         - create and use routes
+
+# part 2
+    how to:
+        - configure connection settings database
+        - run migrate
+        - create model
+        - activate model
+        - play with the API Django in interactive Python shell
