@@ -17,3 +17,11 @@ My first steps in framework django
         - activate model
         - play with the API Django in interactive Python shell
         - create admin user
+
+# part 3
+    more details about the views
+    how to:
+        - read records from a database
+        - create templates for render views
+        
+    Template namespacing
