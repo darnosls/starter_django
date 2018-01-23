@@ -26,3 +26,7 @@ My first steps in framework django
     Template namespacing
     Removing hardcoded URLs in templates
     Namespacing URL names
+
+# part 4
+    how to:
+        - write a simple form
