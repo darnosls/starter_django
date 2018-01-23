@@ -22,6 +22,6 @@ My first steps in framework django
     more details about the views
     how to:
         - read records from a database
-        - create templates for render views
-        
+        - create templates for render views    
     Template namespacing
+    Removing hardcoded URLs in templates
