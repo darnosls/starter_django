@@ -25,3 +25,4 @@ My first steps in framework django
         - create templates for render views    
     Template namespacing
     Removing hardcoded URLs in templates
+    Namespacing URL names
