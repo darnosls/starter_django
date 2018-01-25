@@ -30,3 +30,4 @@ My first steps in framework django
 # part 4
     how to:
         - write a simple form
+        - use generic views: less code is better
