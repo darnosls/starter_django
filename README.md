@@ -31,3 +31,6 @@ My first steps in framework django
     how to:
         - write a simple form
         - use generic views: less code is better
+
+# part 5
+    Introducing automated testing
